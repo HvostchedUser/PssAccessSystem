@@ -1,6 +1,6 @@
 # GuardConsole
 ``
-  ______                     ________                       __   
+   ______                     ________                       __   
   / ____/_  ______ __________/ / ____/___  ____  _________  / /__ 
  / / __/ / / / __ `/ ___/ __  / /   / __ \/ __ \/ ___/ __ \/ / _ \
 / /_/ / /_/ / /_/ / /  / /_/ / /___/ /_/ / / / (__  ) /_/ / /  __/
@@ -14,6 +14,8 @@
 ## Compile and run
 * g++ main.cpp && ./a.out
 ## Project description
-
+This is a console interface for innopolis guards. To get more information, type 'help' while running this application.
 ## features
-* A console interfave
+* A console interface
+* Name generator
+* Simulation system
