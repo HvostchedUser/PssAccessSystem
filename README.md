@@ -10,6 +10,10 @@ This is a console interface for innopolis guards.
 Monitor safety like never before with our system!
 To get more information, type 'help' while running this application.
 ## Updates
+* New test cases
+* New person type
+* New access level
+* Now, rooms do not have a text name. Instead, they have only a list of tags. If one of these tags is in the access list of a person, this person might open the door.
 * You can use your console to activate an emergency system
 * A phone call to an ASCII emercom with some art stolen from The Internet
 * Scopes are not empty now. Some of them have additional commands to execute
