@@ -5,12 +5,17 @@
 
 ## Compiler information
 * gcc version 10.2.1 20201125 (Red Hat 10.2.1-9) (GCC)
-## Compile and run
-* g++ main.cpp && ./a.out
 ## Project description
 This is a console interface for innopolis guards. 
 Monitor safety like never before with our system!
 To get more information, type 'help' while running this application.
+## Updates
+Now you can use your console to activate an emergency system.
+Now, scopes are not empty. Some of them have additional commands to execute.
+Using scopes, you can see details about people, access levels and university rooms.
+Also, now you can open and close an invisible door using the control scope.
+## Compile and run
+* g++ main.cpp && ./a.out
 # features
 ## A console interface
 ![image](https://user-images.githubusercontent.com/42430176/111891225-6987b080-8a02-11eb-9457-0dd23abd577b.png)
