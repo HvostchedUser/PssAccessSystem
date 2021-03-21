@@ -10,10 +10,11 @@ This is a console interface for innopolis guards.
 Monitor safety like never before with our system!
 To get more information, type 'help' while running this application.
 ## Updates
-Now you can use your console to activate an emergency system.
-Now, scopes are not empty. Some of them have additional commands to execute.
-Using scopes, you can see details about people, access levels and university rooms.
-Also, now you can open and close an invisible door using the control scope.
+* You can use your console to activate an emergency system
+* A phone call to an ASCII emercom with some art stolen from The Internet
+* Scopes are not empty now. Some of them have additional commands to execute
+* Using scopes, you can see details about people, access levels and university rooms
+* Also, now you can open and close an invisible door using the control scope
 ## Compile and run
 * g++ main.cpp && ./a.out
 # features
