@@ -43,7 +43,7 @@ public:
 
 class Room{
 public:
-    string type; // Room type (Cabinet, Classroom, ...)
+    vector<string> type; // Room tags (Cabinet, Classroom, ...)
     int id; // Room number or any other ID
     
     
